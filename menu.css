@@ -1,0 +1,36 @@
+#menu {
+    width: 100px;
+    position: fixed;
+    left: -110px;
+    top: 50px;
+    padding: 5px;
+    background-color: #ccff66; 
+    transition: left 1s;
+}
+
+#makeBg,#reset,#hideapp,#showapp {
+    width: 100%;
+}
+
+#open,#close {
+    width: 50px;
+    position: absolute;
+    right: -50px;
+}
+
+#open {
+    top: 0;
+}
+
+#close {
+    bottom: 0;        
+}
+
+
+
+
+
+
+
+
+
