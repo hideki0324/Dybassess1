@@ -8,8 +8,12 @@
     transition: left 1s;
 }
 
-#makeBg,#reset,#hideapp,#showapp {
+#makeBg, #reset, #hideapp, #showapp {
     width: 100%;
+}
+
+#inputNum {
+    width: 90%;
 }
 
 #open,#close {
